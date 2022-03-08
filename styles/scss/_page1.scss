@@ -1,0 +1,84 @@
+//Table section
+.compare__table {
+  padding: 1em 0 4em 0;
+}
+
+//Table parts
+.with__image {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+  color: #000;
+  span {
+    display: inline-block;
+    margin-right: 4px;
+    font-weight: 600;
+    text-align: center;
+    width: calc(100% - 56px);
+  }
+  .img {
+    position: relative;
+    height: 56px;
+    width: 56px;
+    border: 1px solid $grey;
+    border-radius: 8px;
+    padding: 2px;
+    img {
+      object-fit: contain;
+    }
+  }
+}
+
+.sw__score {
+  background-color: $blue;
+  border-radius: 4px;
+  padding: 0.4em 0;
+  text-align: center;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  width: 70px;
+  margin: auto;
+  .score {
+    font-size: 1.6em;
+    display: inline;
+    width: 100%;
+    text-align: center;
+  }
+  .label {
+    font-size: 0.7em;
+    display: inline;
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center;
+  }
+}
+
+.tick__illus {
+  text-align: center;
+  .tick {
+    width: 30px;
+    height: 30px;
+    background: #41b213;
+    color: #fff;
+    border-radius: 100px;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 30px;
+    text-align: center;
+  }
+  .cross {
+    width: 30px;
+    height: 30px;
+    background: #d91d1d;
+    color: #fff;
+    border-radius: 100px;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 30px;
+    text-align: center;
+  }
+}

@@ -1,0 +1,173 @@
+//Container
+.expert__container {
+  width: 80%;
+  margin: auto;
+}
+
+//Title box
+.title__box {
+  text-align: center;
+  margin-top: 3em;
+  .main__title {
+    position: relative;
+    font-weight: 500;
+    color: $primary-color;
+    padding: 0.4rem 0;
+    text-transform: uppercase;
+    font-size: 1.8em;
+    &:after {
+      position: absolute;
+      content: "";
+      left: calc(50% + 4px);
+      bottom: 0;
+      transform: translateX(-50%);
+      display: inline-block;
+      margin: auto;
+      width: 43%;
+      height: 3px;
+      background-color: $primary-color;
+    }
+  }
+
+  .sub__title {
+    font-size: 1em;
+    margin: 0.6em auto;
+    width: 90%;
+  }
+}
+
+//Table
+.table__container {
+  table {
+    width: 100%;
+    min-width: 1240px;
+    max-width: 1240px;
+    border: 2px solid $grey;
+    border-radius: 8px;
+    border-spacing: 0;
+    margin: auto;
+    thead {
+      background-color: $secondary-color;
+      th {
+        padding: 0.6em;
+        font-weight: 500;
+        text-align: center;
+        font-size: 16px;
+      }
+    }
+
+    tbody {
+      tr {
+        &:nth-child(even) {
+          background-color: $light-blue;
+        }
+        td {
+          font-size: 15px;
+        }
+      }
+    }
+
+    td {
+      padding: 0.8em;
+    }
+  }
+}
+
+//Visit home website btn
+.visithome__btn {
+  padding: 9px 20px;
+  display: inline-block;
+  background-color: $blue;
+  text-decoration: none;
+  color: #fff;
+  text-align: center;
+  transition: 0.3s;
+  border-radius: 4px;
+  min-width: 146px;
+  &:hover {
+    opacity: 0.9;
+  }
+  &.secondary {
+    background-color: $primary-color;
+  }
+}
+
+//Visit website btn
+.visit__btn {
+  padding: 9px 20px;
+  display: inline-block;
+  background-color: $green;
+  text-decoration: none;
+  color: #fff;
+  text-align: center;
+  transition: 0.3s;
+  border-radius: 4px;
+  min-width: 146px;
+  &:hover {
+    opacity: 0.9;
+  }
+  &.secondary {
+    background-color: $primary-color;
+  }
+}
+
+//Ratings
+use {
+  &:nth-child(2) {
+    transform: translate(20px);
+  }
+  &:nth-child(3) {
+    transform: translate(40px);
+  }
+  &:nth-child(4) {
+    transform: translate(60px);
+  }
+  &:nth-child(5) {
+    transform: translate(80px);
+  }
+}
+.rating {
+  display: block;
+  height: 20px;
+  margin: 0.75rem auto;
+  width: 100px;
+}
+
+.rating__box {
+  a {
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+    span {
+      width: 100%;
+      text-align: center;
+      display: block;
+      font-weight: 500;
+      color: $primary-color;
+      font-size: 1.1em;
+    }
+  }
+}
+.rates {
+  text-align: center;
+  .shadow__rate {
+    position: relative;
+    display: inline-block;
+    .fa {
+      color: $grey;
+      opacity: 0.5;
+    }
+    .the__rate {
+      position: absolute;
+      top: 0;
+      left: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      z-index: 2;
+      & > .fa {
+        color: $primary-color;
+        opacity: 1;
+      }
+    }
+  }
+}

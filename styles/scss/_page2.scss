@@ -1,0 +1,145 @@
+.section__banner {
+  padding: 2em 0;
+  background-color: #f5f6fb;
+  h2 {
+    font-size: 28px;
+    line-height: 42px;
+  }
+  p {
+    line-height: 26px;
+    color: #828282;
+  }
+}
+
+.section__table {
+  padding: 3em 0;
+  background-color: #fff;
+  table {
+    tr {
+      &:first-child {
+        td {
+          height: 280px;
+          &:nth-child(3) {
+            .tip__item {
+              border-top: 4px solid #08cf65;
+            }
+          }
+          &:nth-child(4) {
+            .tip__item {
+              border-top: 4px solid #2293c1;
+            }
+          }
+          &:nth-child(5) {
+            .tip__item {
+              border-top: 4px solid #6e0fea;
+            }
+          }
+          &:nth-child(6) {
+            .tip__item {
+              border-top: 4px solid #6e0fea;
+            }
+          }
+        }
+      }
+      td {
+        vertical-align: top;
+        border-bottom: 1px solid #eaeaea;
+        &:nth-child(even) {
+          background-color: #fbfbfb;
+        }
+      }
+    }
+  }
+  .blue__box {
+    background-color: var(--primary);
+    border-radius: 8px;
+    padding: 1em;
+    h3 {
+      font-size: 22px !important;
+      color: #fff;
+      padding: 1em;
+      line-height: 35px;
+      text-align: center;
+    }
+  }
+
+  .type__title {
+    padding: 2em 0;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .type__desc {
+    width: 80%;
+    margin: auto;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #828282;
+    padding: 2em 0;
+    .tprice {
+      font-size: 24px;
+      font-weight: 500;
+      color: var(--primary);
+    }
+    &.bold {
+      font-weight: 500 !important;
+    }
+  }
+
+  .ratings {
+    padding: 2em 0;
+    .rates .shadow__rate .the__rate > .fa {
+      color: #f2c94c;
+    }
+  }
+
+  .tip__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    border-top: 4px solid #002c5a;
+    padding: 1em;
+    height: 100%;
+    .info__part {
+      text-align: center;
+      padding: 1em 0;
+      .img {
+        position: relative;
+        height: 40px;
+        width: 40px;
+        margin: auto;
+        img {
+          object-fit: contain;
+        }
+      }
+      .mg__title {
+        margin: 0.5em 0;
+        font-size: 18px;
+        font-weight: 500;
+      }
+      p {
+        color: #828282;
+        font-size: 12px;
+      }
+    }
+    .btn {
+      width: 124px;
+      height: 41px;
+      background: #27ae60;
+      border-radius: 8px;
+      color: #fff;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .rcount {
+      font-size: 12px;
+      text-decoration: underline;
+      color: #333;
+    }
+  }
+}
