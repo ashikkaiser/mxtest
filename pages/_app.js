@@ -17,7 +17,7 @@ import Script from 'next/script';
 var loc = null;
 
 const myAxios = axios.create({
-  baseURL: 'https://staging.spotsaas.com/',
+  baseURL: 'https://ashikkaiser.com/',
   withCredentials: true,
 });
 function MyApp({ Component, pageProps, country }) {
