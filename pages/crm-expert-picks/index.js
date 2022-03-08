@@ -55,464 +55,466 @@ const index = () => {
                         </div>
                       </a>
                     </td>
-                    <a
-                      href="http://clickmetertracking.com/tty1"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="with__image"
-                    >
-                      <span>monday.com</span>
-                      <div className="img">
-                        <Image layout="fill" src="/img/monday.png" alt="" />
-                      </div>
-                    </a>
-                  </td>
-
-                  <td>
-                    <a
-                      href="http://clickmetertracking.com/l4lu"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="with__image"
-                    >
-                      <span>Pipedrive</span>
-                      <div className="img">
-                        <Image
-                          layout="fill"
-                          src="/img/pipedrive.png"
-                          alt=""
-                        />
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <a
-                      href="http://clickmetertracking.com/qwzd"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="with__image"
-                    >
-                      <span>Zendesk Sell </span>
-                      <div className="img">
-                        <Image layout="fill" src="/img/zendesk.png" alt="" />
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <a
-                      href="http://clickmetertracking.com/kl27"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="with__image"
-                    >
-                      <span>Keap </span>
-                      <div className="img">
-                        <Image layout="fill" src="/img/keap.png" alt="" />
-                      </div>
-                    </a>
-                  </td>
-                  <td>
-                    <a
-                      href="http://clickmetertracking.com/6hf1"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="with__image"
-                    >
-                      <span>Act! </span>
-                      <div className="img">
-                        <Image layout="fill" src="/img/act.webp" alt="" />
-                      </div>
-                    </a>
-                  </td>
-
-                </tr>
-
-                <tr>
-                  <th style={{ width: "130px" }}>User Rating</th>
-                  <td>
-                    <div className="rating__box">
-                      <div className="rates">
-                        <div className="shadow__rate">
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <div className="the__rate" style={{ width: "90%" }}>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                          </div>
-                        </div>
-                      </div>
+                    <td>
                       <a
-                        href="https://www.spotsaas.com/product/monday-com/reviews/"
+                        href="http://clickmetertracking.com/tty1"
                         target="_blank"
                         rel="noreferrer"
+                        className="with__image"
                       >
-                        <span>Read Review</span>
-                      </a>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="rating__box">
-                      <div className="rates">
-                        <div className="shadow__rate">
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <div className="the__rate" style={{ width: "90%" }}>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-
-                            <i className="fa fa-star"></i>
-                          </div>
+                        <span>monday.com</span>
+                        <div className="img">
+                          <Image layout="fill" src="/img/monday.png" alt="" />
                         </div>
-                      </div>
+                      </a>
+                    </td>
+
+                    <td>
                       <a
-                        href="https://www.spotsaas.com/product/pipedrive/reviews/"
+                        href="http://clickmetertracking.com/l4lu"
                         target="_blank"
                         rel="noreferrer"
+                        className="with__image"
                       >
-                        <span>Read Review</span>
-                      </a>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="rating__box">
-                      <div className="rates">
-                        <div className="shadow__rate">
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <div className="the__rate" style={{ width: "84%" }}>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                          </div>
+                        <span>Pipedrive</span>
+                        <div className="img">
+                          <Image
+                            layout="fill"
+                            src="/img/pipedrive.png"
+                            alt=""
+                          />
                         </div>
-                      </div>
+                      </a>
+                    </td>
+                    <td>
                       <a
-                        href="https://www.spotsaas.com/product/zendesk-sell/reviews/"
+                        href="http://clickmetertracking.com/qwzd"
                         target="_blank"
                         rel="noreferrer"
+                        className="with__image"
                       >
-                        <span>Read Review</span>
-                      </a>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="rating__box">
-                      <div className="rates">
-                        <div className="shadow__rate">
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <div className="the__rate" style={{ width: "82%" }}>
-                            {" "}
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                          </div>
+                        <span>Zendesk Sell </span>
+                        <div className="img">
+                          <Image layout="fill" src="/img/zendesk.png" alt="" />
                         </div>
-                      </div>
+                      </a>
+                    </td>
+                    <td>
                       <a
-                        href="https://www.spotsaas.com/product/keap/reviews/"
+                        href="http://clickmetertracking.com/kl27"
                         target="_blank"
                         rel="noreferrer"
+                        className="with__image"
                       >
-                        <span>Read Review</span>
-                      </a>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="rating__box">
-                      <div className="rates">
-                        <div className="shadow__rate">
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <i className="fa fa-star"></i>
-                          <div className="the__rate" style={{ width: "74%" }}>
-                            {" "}
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                            <i className="fa fa-star"></i>
-                          </div>
+                        <span>Keap </span>
+                        <div className="img">
+                          <Image layout="fill" src="/img/keap.png" alt="" />
                         </div>
-                      </div>
+                      </a>
+                    </td>
+                    <td>
                       <a
-                        href="https://www.spotsaas.com/product/act-/reviews/"
+                        href="http://clickmetertracking.com/6hf1"
                         target="_blank"
                         rel="noreferrer"
+                        className="with__image"
                       >
-                        <span>Read Review</span>
+                        <span>Act! </span>
+                        <div className="img">
+                          <Image layout="fill" src="/img/act.webp" alt="" />
+                        </div>
                       </a>
-                    </div>
-                  </td>
-                </tr>
+                    </td>
 
-                <tr>
-                  <th style={{ width: "93px" }}>
-                    Free Trial <br />
-                    (yes/no)
-                  </th>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">✓</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">✓</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">✓</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">✓</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">✓</div>
-                    </div>
-                  </td>
-                </tr>
+                  </tr>
 
-                <tr>
-                  <th style={{ width: "123px" }}>
-                    Contact
-                    Management
-                  </th>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">✓</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">✓</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                </tr>
+                  <tr>
+                    <th style={{ width: "130px" }}>User Rating</th>
+                    <td>
+                      <div className="rating__box">
+                        <div className="rates">
+                          <div className="shadow__rate">
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <div className="the__rate" style={{ width: "90%" }}>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                            </div>
+                          </div>
+                        </div>
+                        <a
+                          href="https://www.spotsaas.com/product/monday-com/reviews/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          <span>Read Review</span>
+                        </a>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="rating__box">
+                        <div className="rates">
+                          <div className="shadow__rate">
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <div className="the__rate" style={{ width: "90%" }}>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
 
-                <tr>
-                  <th style={{ width: "128px" }}>
-                    Marketing
-                    Management
-                  </th>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                </tr>
 
-                <tr>
-                  <th style={{ width: "120px" }}>Automation</th>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                </tr>
+                            </div>
+                          </div>
+                        </div>
+                        <a
+                          href="https://www.spotsaas.com/product/pipedrive/reviews/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          <span>Read Review</span>
+                        </a>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="rating__box">
+                        <div className="rates">
+                          <div className="shadow__rate">
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <div className="the__rate" style={{ width: "84%" }}>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                            </div>
+                          </div>
+                        </div>
+                        <a
+                          href="https://www.spotsaas.com/product/zendesk-sell/reviews/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          <span>Read Review</span>
+                        </a>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="rating__box">
+                        <div className="rates">
+                          <div className="shadow__rate">
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <div className="the__rate" style={{ width: "82%" }}>
+                              {" "}
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                            </div>
+                          </div>
+                        </div>
+                        <a
+                          href="https://www.spotsaas.com/product/keap/reviews/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          <span>Read Review</span>
+                        </a>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="rating__box">
+                        <div className="rates">
+                          <div className="shadow__rate">
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <i className="fa fa-star"></i>
+                            <div className="the__rate" style={{ width: "74%" }}>
+                              {" "}
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                              <i className="fa fa-star"></i>
+                            </div>
+                          </div>
+                        </div>
+                        <a
+                          href="https://www.spotsaas.com/product/act-/reviews/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          <span>Read Review</span>
+                        </a>
+                      </div>
+                    </td>
+                  </tr>
 
-                <tr>
-                  <th style={{ width: "130px" }}>Reporting</th>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="cross">X</div>
-                    </div>
-                  </td>
-                </tr>
+                  <tr>
+                    <th style={{ width: "93px" }}>
+                      Free Trial <br />
+                      (yes/no)
+                    </th>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">✓</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">✓</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">✓</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">✓</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">✓</div>
+                      </div>
+                    </td>
+                  </tr>
 
-                <tr>
-                  <th style={{ width: "110px" }}>Mobile App</th>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                  <td>
-                    <div className="tick__illus">
-                      <div className="tick">X</div>
-                    </div>
-                  </td>
-                </tr>
+                  <tr>
+                    <th style={{ width: "123px" }}>
+                      Contact
+                      Management
+                    </th>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">✓</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">✓</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                  </tr>
 
-                <tr>
-                  <th>
-                  </th>
-                  <td>
-                    <a
-                      href="http://clickmetertracking.com/tty1"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="visit__btn"
-                    >
-                      Try for free
-                    </a>
-                  </td>
-                  <td>
-                    <a
-                      href="http://clickmetertracking.com/l4lu"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="visit__btn"
-                    >
-                      Visit Website
-                    </a>
-                  </td>
-                  <td>
-                    <a
-                      href="http://clickmetertracking.com/qwzd"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="visit__btn"
-                    >
-                      Visit Website
-                    </a>
-                  </td>
-                  <td>
-                    <a
-                      href="http://clickmetertracking.com/kl27"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="visit__btn"
-                    >
-                      Try for Free
-                    </a>
-                  </td>
-                  <td>
-                    <a
-                      href="http://clickmetertracking.com/6hf1"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="visit__btn"
-                    >
-                      Visit Website
-                    </a>
-                  </td>
-                </tr>
+                  <tr>
+                    <th style={{ width: "128px" }}>
+                      Marketing
+                      Management
+                    </th>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                  </tr>
 
-              </tbody>
-            </table>
+                  <tr>
+                    <th style={{ width: "120px" }}>Automation</th>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                  </tr>
+
+                  <tr>
+                    <th style={{ width: "130px" }}>Reporting</th>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="cross">X</div>
+                      </div>
+                    </td>
+                  </tr>
+
+                  <tr>
+                    <th style={{ width: "110px" }}>Mobile App</th>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                    <td>
+                      <div className="tick__illus">
+                        <div className="tick">X</div>
+                      </div>
+                    </td>
+                  </tr>
+
+                  <tr>
+                    <th>
+                    </th>
+                    <td>
+                      <a
+                        href="http://clickmetertracking.com/tty1"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="visit__btn"
+                      >
+                        Try for free
+                      </a>
+                    </td>
+                    <td>
+                      <a
+                        href="http://clickmetertracking.com/l4lu"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="visit__btn"
+                      >
+                        Visit Website
+                      </a>
+                    </td>
+                    <td>
+                      <a
+                        href="http://clickmetertracking.com/qwzd"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="visit__btn"
+                      >
+                        Visit Website
+                      </a>
+                    </td>
+                    <td>
+                      <a
+                        href="http://clickmetertracking.com/kl27"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="visit__btn"
+                      >
+                        Try for Free
+                      </a>
+                    </td>
+                    <td>
+                      <a
+                        href="http://clickmetertracking.com/6hf1"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="visit__btn"
+                      >
+                        Visit Website
+                      </a>
+                    </td>
+                  </tr>
+
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>
-      </section>
-    </main >
+        </section>
+      </main >
     </>
   );
 };
