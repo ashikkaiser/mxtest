@@ -17,7 +17,7 @@ import Script from 'next/script';
 var loc = null;
 
 const myAxios = axios.create({
-  baseURL: 'https://ashikkaiser.com/',
+  baseURL: 'https://mxtest.vercel.app/',
   withCredentials: true,
 });
 function MyApp({ Component, pageProps, country }) {
